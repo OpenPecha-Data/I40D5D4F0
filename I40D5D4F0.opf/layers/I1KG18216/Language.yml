@@ -1,73 +1,73 @@
-id: 11a5eabd7a6d4a439a3b7be47845013a
+id: edb760de9e5c4a2dac5f88f33f4ca7c5
 annotation_type: Language
 revision: '00001'
 annotations:
-  1647d3707ee240d5ae92a91f6bcbe531:
+  33ed681da1ee46c5905b0bce84f9c646:
     span:
       start: 39
       end: 172
     language: en
-  798ea3d582f34c0fbc634fbcb72be178:
+  bcec616e3a4b47cfa84dfd43ae961d9b:
     span:
       start: 321
       end: 731
     language: en
-  daa6da4cecc9470fb40764358166bfdc:
+  499f1aaf64a14e829b0f5b4d4dcd40b5:
     span:
       start: 1077
       end: 1126
     language: en
-  ed05d2bd1a974212a2e4cebf2dcbdd2a:
+  3b7419e6b1d149e78306bb2ecbdada37:
     span:
       start: 1257
       end: 1340
     language: en
-  806f9c2547774057afbd72492c44e049:
+  fc49e29c06fe441d87e610312f705dd4:
     span:
       start: 6079
       end: 6339
     language: en
-  be8bda5504684105a9632bc2deaf0ad8:
+  2ac9cd4733dd4ab0a339d03c89f0400a:
     span:
       start: 7052
       end: 7236
     language: en
-  77e374a250734824a72f7496b83c9cf8:
+  bbaaa41a61be4c6fa8f2ef6410f1fcaa:
     span:
       start: 51264
       end: 51299
     language: en
-  d1d9702a11634e67815ea4c8d94ef07e:
+  e370ad49410948238a147ae75af0e226:
     span:
       start: 139113
       end: 139139
     language: en
-  1b20eb541d354c18a605d58554f8bcf6:
+  91ac8c93ae7848f79fb694f0d9304792:
     span:
       start: 223506
       end: 223557
     language: en
-  03c4f932af1d4241b9d8e519952cb9ad:
+  2b2dc494622d4d5eb508efe3efe94fb8:
     span:
       start: 267739
       end: 267808
     language: en
-  67cc65c633ed48f5abff6ced276d0cbe:
+  e6eb61355f3c4235a53dbc452c6904bd:
     span:
       start: 349630
       end: 349697
     language: en
-  9397e73265d64f34847dd7f2029d0a6b:
+  47d230c47ac94a1899781915ffb7ad97:
     span:
       start: 368986
       end: 369031
     language: en
-  3afd7fc3b5094998b0eb6bec66ddecec:
+  8c0e3b2390a44002a02d5322ddae52e0:
     span:
       start: 371962
       end: 372018
     language: en
-  0b3943abd1614c9595a0bf8bd54a72ef:
+  6b9a5b91870c4185898b50fe1fa28b66:
     span:
       start: 392530
       end: 392583
